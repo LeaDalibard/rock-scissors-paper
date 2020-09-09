@@ -10,10 +10,10 @@
 Make a rock-scissors-paper game.
 
 ### Must-have features
-- [ ] Have three buttons that the player can press to change their pick
-- [ ] Have another button to let the computer pick one and show the winner
-- [ ] Let the player know they won (no alert box)
-- [ ] Have a reset button
+- [X] Have three buttons that the player can press to change their pick
+- [X] Have another button to let the computer pick one and show the winner
+- [X] Let the player know they won (no alert box)
+- [X] Have a reset button
 
 ### Nice-to-have features
 - [ ] Nice graphics
