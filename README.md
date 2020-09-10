@@ -16,7 +16,7 @@ Make a rock-scissors-paper game.
 - [X] Have a reset button
 
 ### Nice-to-have features
-- [ ] Nice graphics
+- [X] Nice graphics
 - [ ] Let the player input using a text field
 - [X] Show what the player picked by highlighting the correct button
 - [X] Add more options (spock, ...)
