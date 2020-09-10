@@ -22,3 +22,6 @@ Make a rock-scissors-paper game.
 - [X] Add more options (spock, ...)
 - [X] Add even more options (but avoid using 100 if statements)
 - [ ] Add complex rules
+
+### Link to the game
+[https://leadalibard.github.io/rock-scissors-paper/](https://leadalibard.github.io/rock-scissors-paper/)
