@@ -25,7 +25,7 @@
     });
 
     spock.addEventListener("click", function () {
-        player = "spock";
+        player = "Spock";
         spock.style.backgroundColor='#FA6528';
     });
 
