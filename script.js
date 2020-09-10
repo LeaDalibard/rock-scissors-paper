@@ -50,6 +50,7 @@
     reset.addEventListener("click", function (){
         computer="";
         player="";
+        computerPick ="";
         result.innerHTML ="";
     })
 
