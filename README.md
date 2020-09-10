@@ -18,7 +18,7 @@ Make a rock-scissors-paper game.
 ### Nice-to-have features
 - [ ] Nice graphics
 - [ ] Let the player input using a text field
-- [ ] Show what the player picked by highlighting the correct button
+- [X] Show what the player picked by highlighting the correct button
 - [X] Add more options (spock, ...)
 - [X] Add even more options (but avoid using 100 if statements)
 - [ ] Add complex rules
