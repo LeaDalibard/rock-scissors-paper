@@ -5,22 +5,28 @@
 
     rock.addEventListener("click", function () {
         player = "rock";
+        rock.style.backgroundColor='#FA6528';
+
     });
 
     paper.addEventListener("click", function () {
         player = "paper";
+        paper.style.backgroundColor='#FA6528';
     });
 
     scissors.addEventListener("click", function () {
         player = "scissors";
+        scissors.style.backgroundColor='#FA6528';
     });
 
     lizard.addEventListener("click", function () {
         player = "lizard";
+        lizard.style.backgroundColor='#FA6528';
     });
 
     spock.addEventListener("click", function () {
         player = "spock";
+        spock.style.backgroundColor='#FA6528';
     });
 
 
@@ -52,6 +58,12 @@
         player="";
         computerPick ="";
         result.innerHTML ="";
+        rock.style.backgroundColor='';
+        paper.style.backgroundColor='';
+        scissors.style.backgroundColor='';
+        spock.style.backgroundColor='';
+        lizard.style.backgroundColor='';
+
     })
 
 })();
